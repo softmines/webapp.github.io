@@ -1,0 +1,109 @@
+Uri: https://grizliq.github.io/gemblbot.minesspribe/
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.minesspribe\index.htm
+Content Type: text/html
+
+Uri: https://grizliq.github.io/gemblbot.minesspribe/dollar.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.minesspribe\dollar.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.minesspribe/jquery.min.js
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.minesspribe\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://grizliq.github.io/gemblbot.minesspribe/mine.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.minesspribe\mine.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.minesspribe/star.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.minesspribe\star.png
+Content Type: image/png
+
+Uri: https://telegram.org/js/telegram-web-app.js
+File Name: C:\Downloaded Web Sites\grizliq.github.io\js\telegram-web-app.js
+Content Type: application/javascript
+
+tent Type: image/svg+xml
+
+Uri: https://grizliq.github.io/gemblbot.aviator/js/main.js
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.aviator\js\main.js
+Content Type: application/javascript
+
+//fonts.cdnfonts.com/s/59278/SFPRODISPLAYSEMIBOLDITALIC.woff
+File Name: C:\Downloaded Web Sites\grizliq.github.io\s\59278\SFPRODISPLAYSEMIBOLDITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYTHINITALIC.woff
+File Name: C:\Downloaded Web Sites\grizliq.github.io\s\59278\SFPRODISPLAYTHINITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYULTRALIGHTITALIC.woff
+File Name: C:\Downloaded Web Sites\grizliq.github.io\s\59278\SFPRODISPLAYULTRALIGHTITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Prosto+One&display=swap
+File Name: C:\Downloaded Web Sites\grizliq.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/prostoone/v19/OpNJno4VhNfK-RgpwWWxpio.ttf
+File Name: C:\Downloaded Web Sites\grizliq.github.io\s\prostoone\v19\OpNJno4VhNfK-RgpwWWxpio.ttf
+Content Type: font/ttf
+
+Uri: https://grizliq.github.io/gemblbot.lucky/
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.lucky\index.htm
+Content Type: text/html
+
+Uri: https://grizliq.github.io/gemblbot.lucky/images/1win_logo.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.lucky\images\1win_logo.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.lucky/images/bg.jpg
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.lucky\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://grizliq.github.io/gemblbot.lucky/images/Lucky.svg
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.lucky\images\Lucky.svg
+Content Type: image/svg+xml
+
+Uri: https://grizliq.github.io/gemblbot.lucky/images/obl.svg
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.lucky\images\obl.svg
+Content Type: image/svg+xml
+
+Uri: https://grizliq.github.io/gemblbot.lucky/index.css
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.lucky\index.css
+Content Type: text/css
+
+Uri: https://grizliq.github.io/gemblbot.lucky/script1.js
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.lucky\script1.js
+Content Type: application/javascript
+
+\Downloaded Web Sites\grizliq.github.io\gemblbot.main\mimines.jpg
+Content Type: image/jpeg
+
+Uri: https://grizliq.github.io/gemblbot.main/money.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.main\money.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.main/penafon.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.main\penafon.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.main/pt.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.main\pt.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.main/ru.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.main\ru.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.main/secret.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.main\secret.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.main/tr.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.main\tr.png
+Content Type: image/png
+
+Uri: https://grizliq.github.io/gemblbot.main/uz.png
+File Name: C:\Downloaded Web Sites\grizliq.github.io\gemblbot.main\uz.png
+Content Type: image/png
+
